@@ -14,7 +14,7 @@
   remote = yellow
 
 [core]
-	editor = '' -n -w
+	editor = 'subl' -n -w
   pager = less -FRSX
   mergeoptions = --no-edit
 
@@ -48,3 +48,5 @@
 
 [push]
 	default = simple
+[branch "master"]
+	mergeoptions = --no-edit
