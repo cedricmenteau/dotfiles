@@ -1,6 +1,6 @@
 [user]
-  name =  "cedricmenteau"
-  email = "me.cedric@gmail.com"
+	name = cedric menteau
+	email = chaton@hey.com
 
 [color]
   branch = auto
@@ -14,7 +14,7 @@
   remote = yellow
 
 [core]
-	editor = 'subl' -n -w
+	editor = '' -n -w
   pager = less -FRSX
   mergeoptions = --no-edit
 

@@ -32,4 +32,4 @@ bindkey '^[OB' history-substring-search-down
 
 # UTF-8 is our default encoding
 export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
+export LC_ALL=en_US.UTF-8export PATH=/opt/homebrew/bin:/usr/local/var/rbenv/bin:~/.rbenv/shims:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/local/share/npm/bin:/usr/X11/bin:/usr/texbin:~/bin
